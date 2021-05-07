@@ -1,0 +1,17 @@
+.editTitle{
+    font-size: 15px;
+    color: #fff;
+    background-color: transparent;
+    font-weight: 600;
+    outline: none;
+    border: none;
+}
+.editContent{
+    border: none;
+    outline: none;
+    width: 100%;
+    background-color: transparent;
+}
+.editContent::-webkit-scrollbar{
+    display: none;
+}
